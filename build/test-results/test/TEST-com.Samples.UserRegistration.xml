@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.Samples.UserRegistration" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-28T20:02:54" hostname="DESKTOP-LSKIBA4" time="0.016">
+  <properties/>
+  <testcase name="givenEmailId_WhenProper_ShouldReturnTrue" classname="com.Samples.UserRegistration" time="0.016"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
